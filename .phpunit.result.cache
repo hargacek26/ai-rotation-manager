@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"YourVendor\\AIRotationManager\\Tests\\AIRotationTest::test_it_rotates_to_the_next_groq_key_after_a_rate_limit":0.173,"YourVendor\\AIRotationManager\\Tests\\AIRotationTest::test_it_falls_back_to_gemini_when_all_groq_keys_are_rate_limited":0.002}}
